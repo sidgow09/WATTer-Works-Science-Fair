@@ -1,6 +1,6 @@
-# WATTer works 🌊⚡
+# WATTer works - An award-winning Science Fair Project
 
-An award-winning green energy project designed to harvest clean electricity from wastewater infrastructure. 
+A green energy project designed to harvest clean electricity from wastewater infrastructure. 
 
 ---
 
